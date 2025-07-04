@@ -1,4 +1,3 @@
-# Web-design-important-questions-
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -7,104 +6,6 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<style>
-/* Reset */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: #f5f7fa;
-  color: #333;
-  line-height: 1.6;
-  padding-bottom: 60px;
-}
-
-/* Header */
-header {
-  background: linear-gradient(90deg, #0077ff, #00c2ff);
-  color: white;
-  text-align: center;
-  padding: 30px 20px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-}
-
-header h1 {
-  font-size: 28px;
-  letter-spacing: 1px;
-}
-
-/* Main content */
-main {
-  max-width: 900px;
-  margin: 30px auto;
-  padding: 0 20px;
-}
-
-/* Section styling */
-section {
-  background: white;
-  border-radius: 12px;
-  padding: 25px;
-  margin-bottom: 30px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-  transition: transform 0.3s ease;
-}
-
-section:hover {
-  transform: translateY(-4px);
-}
-
-h2 {
-  margin-bottom: 15px;
-  font-size: 22px;
-  color: #0077ff;
-  border-left: 5px solid #00c2ff;
-  padding-left: 10px;
-}
-
-/* Q&A */
-.qa p,
-.qa li {
-  margin-bottom: 12px;
-}
-
-.qa li {
-  list-style-type: decimal;
-  padding-left: 10px;
-}
-
-ol {
-  padding-left: 20px;
-}
-
-/* Pre/code blocks */
-pre,
-code {
-  background-color: #f0f0f0;
-  font-family: monospace;
-  padding: 8px 10px;
-  border-radius: 6px;
-  display: inline-block;
-  overflow-x: auto;
-  color: #000;
-}
-
-/* Footer */
-footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  background: #222;
-  color: #ccc;
-  text-align: center;
-  padding: 10px;
-  font-size: 14px;
-}
-</style>
   <header>
     <h1>Unit 1: HTML, CSS & JavaScript - Questions & Answers</h1>
   </header>
