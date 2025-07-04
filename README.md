@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Web Dev Unit 1: Q&A</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="tyle.css">
 </head>
 <body>
   <header>
